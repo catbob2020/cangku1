@@ -3,8 +3,8 @@ for i in range(9):
     print(i)
 
 print('测试')
-
-
+print('gmf uqw  ddf')
+print('game over')
 
 
 # print('!!!!!!!!')
